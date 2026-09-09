@@ -39,7 +39,19 @@ Mark Beavers
 
 
 ##### In line code and code blocks
-`print(greet(Hello))`
+This is inline code: `print(Hello)`
+
+
+`def hello_world():
+    print("Hello, world!")`
+
+This is a code block:
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("World"))
+```
 
 
 ###### Tables
