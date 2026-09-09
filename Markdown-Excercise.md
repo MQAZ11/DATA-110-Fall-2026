@@ -39,7 +39,7 @@ Mark Beavers
 
 
 ##### In line code and code blocks
-This is inline code: `print(Hello)`
+This is `inline code`: `print(Hello)`
 
 
 `def hello_world():
@@ -68,3 +68,6 @@ print(greet("World"))
 
 ###### Footnotes
 
+This is an example of how to make a footnote [^1]
+
+[^1]: This is the footnote
